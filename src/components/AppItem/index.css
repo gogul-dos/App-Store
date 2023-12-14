@@ -1,0 +1,13 @@
+.icon-app {
+  height: 65px;
+  width: 65px;
+  border-radius: 10px;
+}
+.list-item-for-app {
+  border-radius: 5px;
+  padding: 10px;
+  background-color: #ffffff;
+  margin: 30px;
+  height: 140px;
+  width: 120px;
+}

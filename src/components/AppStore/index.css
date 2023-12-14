@@ -1,0 +1,30 @@
+.tab-list {
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+}
+.main-container {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-image: linear-gradient(to bottom, #fff1eb, #ace0f9);
+  height: 100vh;
+  width: 100vw;
+  background-size: cover;
+  padding: 25px;
+  padding-top: 50px;
+}
+ul {
+  list-style: none;
+}
+.app-list {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.search-image {
+  height: 15px;
+  width: 15px;
+}
